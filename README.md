@@ -1,2 +1,2 @@
 # Machine-Learning-Product-Catalog
-Product Catalog Segment customer based on gender 
+Segment Retail customer by gender using text analysis of title and description and categorical by data analysis
